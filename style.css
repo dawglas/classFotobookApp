@@ -1,0 +1,89 @@
+/********************
+******Container*****
+********************/
+.container_12{
+	background:
+	#009999
+	/**#000000**/
+	/**#000033**/
+	/**#006699**/
+	/**#009900**/
+	/**#009966**/
+	/**#009999**/
+	/**#00CCCC**/
+	/**#66FFCC**/
+	/**#FF3399**/
+	 /**#FFCCFF**/
+}
+.wrap{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.search{
+	display: inline-block;
+width: 135px;
+min-height: 22px;
+padding: 3px 5px;
+font-size: 12px;
+line-height: 16px;
+/**background: transparent none repeat scroll 0% 0%;**/
+border: 0px none;
+}
+
+.primary{
+	background: blue;
+}
+/********************
+*****HEADER*********
+********************/
+header{
+	background: yellow;
+}
+.main{
+	margin: 15px 30px; 
+}
+header h1 {padding-left: 380px;}
+img {
+width: 540px;
+height:640px;
+}
+
+nav li {
+/**padding-right: 5px;
+padding-top: 5px;**/
+position: relative;
+display: inline-block;
+padding: 6px 12px;
+font-size: 13px;
+font-weight: bold;
+line-height: 20px;
+color: #333;
+white-space: nowrap;
+vertical-align: middle;
+cursor: pointer;
+background-color: #EEE;
+background-image: linear-gradient(#FCFCFC, #EEE);
+border: 1px solid #D5D5D5;
+border-radius: 3px;
+-moz-user-select: none;
+}
+/********************
+*****ASIDE***********
+********************/
+
+aside button{
+	margin-top: 5px;
+	background: none;
+}
+
+/**.site-footer {
+    margin-top: 0px;
+    border-top: 0px none;
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 40px;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #767676;
+    border-top: 1px solid #EEE;
+}**/
